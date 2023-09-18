@@ -9,7 +9,7 @@ require (
 	github.com/go-chi/chi/v5 v5.0.8
 	github.com/go-redis/redis/v9 v9.0.0-rc.2
 	github.com/hashicorp/go-memdb v1.3.4
-	github.com/meilisearch/meilisearch-go v0.25.0
+	github.com/meilisearch/meilisearch-go v0.25.1
 	github.com/prometheus/client_golang v1.16.0
 	github.com/stretchr/testify v1.8.4
 )
